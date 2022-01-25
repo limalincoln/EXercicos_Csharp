@@ -1,0 +1,15 @@
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\Media_nota.exe
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\Media_nota.deps.json
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\Media_nota.runtimeconfig.json
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\Media_nota.dll
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\ref\Media_nota.dll
+C:\Users\Linco\source\repos\Media_nota\bin\Debug\net6.0\Media_nota.pdb
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.csproj.AssemblyReference.cache
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.AssemblyInfoInputs.cache
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.AssemblyInfo.cs
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.csproj.CoreCompileInputs.cache
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.dll
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\ref\Media_nota.dll
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.pdb
+C:\Users\Linco\source\repos\Media_nota\obj\Debug\net6.0\Media_nota.genruntimeconfig.cache
